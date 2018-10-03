@@ -1,0 +1,16 @@
+#navStyle {
+    background-color: var(--sweg1) !important;
+    font-family: var(--font-two);
+    font-size: 24px;
+    /* color: var(--sweg4); */
+}
+
+.navbar-brand {
+    border-right: 15px black;
+    z-index: 10;
+}
+
+#listStyle {
+    margin-left: 60%;
+    /* color: var(--sweg4); */
+}
