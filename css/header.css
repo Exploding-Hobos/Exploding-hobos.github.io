@@ -1,5 +1,5 @@
 #jumboStyle {
-    background: url(../assets/img/French-Jap\ Clouds.jpg) no-repeat center;
+    background: url(../assets/img/French-Jap\ Clouds.jpg) no-repeat center fixed;
     background-size: cover;
     height: 500px;
     color: var(--sweg2);
@@ -11,5 +11,9 @@
 #jumboName {
     margin: auto;
     font-size: 84px;
+    text-shadow: .1em .1em .1em black;
+}
+
+#Yee {
     text-shadow: .1em .1em .1em black;
 }
