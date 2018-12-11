@@ -2,3 +2,11 @@
     font-size: 33px;
     font-family: var(--font-two);
 }
+
+#aboutMeContainer {
+    text-align: center;
+    background: url('../assets/img/darkish\ clouds.jpg');
+    background-size: cover;
+    margin: 2em;
+    border: .25em solid rgba(0, 0, 0, 0.700);
+}
