@@ -1,5 +1,5 @@
 #aboutMe {
-    font-size: 33px;
+    font-size: 1em;
     font-family: var(--font-two);
 }
 
@@ -7,6 +7,10 @@
     text-align: center;
     background: url('../assets/img/darkish\ clouds.jpg');
     background-size: cover;
-    margin: 2em;
     border: .25em solid rgba(0, 0, 0, 0.700);
+    z-index: -1;
+}
+
+#about {
+    margin: 5em;
 }

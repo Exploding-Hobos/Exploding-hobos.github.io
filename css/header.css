@@ -1,17 +1,17 @@
 #jumboStyle {
     background: url(../assets/img/Albert_Bierstadt_-_Storm_Clouds_\(c.1880\).jpg) no-repeat center fixed;
     background-size: cover;
-    height: 500px;
+    height: 42em;
     color: var(--sweg2);
     text-align: center;
-    font-family: var(--font-two);
+    font-family: var(--font-eight);
     /* text-shadow: .3em .3em .3em black; */
 }
 
 #jumboName {
-    margin: auto;
-    font-size: 84px;
-    text-shadow: .1em .1em .1em black;
+    margin-top: 1em;
+    font-size: 5em;
+    text-shadow: .1em .1em .1em rgba(0, 0, 0, 0.548);
 }
 
 #Yee {

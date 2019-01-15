@@ -1,11 +1,11 @@
 /* The Whole NavBar */
 #navStyle {
-    background-color: var(--sweg1) !important;
+    background-color: rgba(96, 151, 139, 0.755) !important;
     font-family: var(--font-two);
-    font-size: 24px;
-    /* position: fixed; */
+    font-size: 1em;
+    position: fixed;
     width: 100%;
-    height: 60px;
+    height: 4em;
     border-radius: 0px;
     margin-bottom: 0;
     /* z-index: 11; */
@@ -15,25 +15,14 @@
 .navbar-brand {
     display: inline-block;
     border-right: 15px black;
-    z-index: 11;
+    z-index: 2;
     /* padding: 0 25.5px; */
     /* margin-top: 4px; */
     
 }
 
 /* The list inside the bar */
-#listStyle {
-    /* margin-left: 60%; */
-    z-index: 11;
-    /* color: var(--sweg4); */
-}
 
-#listStyle li {
-    display: inline-block;
-    margin-top: 4px;
-}
-
-#listStyle li a {
-    padding: 0 15.5px;
-    text-decoration: none;
+#navStyle ul {
+    margin-left: 70%;
 }
