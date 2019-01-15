@@ -1,0 +1,32 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+
+}
+
+/* .work-item {
+    border: 2px solid #663f92;
+    text-align: center;
+
+} */
+
+.d-block {
+    display: block!important
+}
+
+.content .work-item {
+    background-color: #9811FF;
+    border: 2px solid #ff00a9;
+    -webkit-box-shadow: 0 0 15px #ff00a9;
+    box-shadow: 0 0 15px #ff00a9;
+    padding: 16px;
+    height: 100%;
+    width: 260px;
+    margin: auto;
+}
+
+.preview {
+    margin-bottom: 20px;
+    border: 1px solid #f393ed;
+}

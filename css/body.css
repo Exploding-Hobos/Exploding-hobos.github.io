@@ -1,8 +1,18 @@
 body {
     background-color: var(--sweg3);
+    line-height: 1.6;
+    display: block;
 }
 
 
 .container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
 
+div {
+    display: block;
 }
