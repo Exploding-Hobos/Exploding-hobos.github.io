@@ -1,5 +1,5 @@
 body {
-    background-color: var(--sweg3);
+    background-image: linear-gradient(to bottom right, #915BA2,#8E649B,#5E8792, #AC8DB6, #915BA2);
     line-height: 1.6;
     display: block;
 }

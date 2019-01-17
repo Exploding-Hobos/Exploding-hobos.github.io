@@ -16,17 +16,32 @@
 }
 
 .content .work-item {
-    background-color: #9811FF;
-    border: 2px solid #ff00a9;
-    -webkit-box-shadow: 0 0 15px #ff00a9;
-    box-shadow: 0 0 15px #ff00a9;
+    background-color: white;
+    border: 2px solid burlywood;
+    -webkit-box-shadow: 0 0 15px burlywood;
+    box-shadow: 0 0 15px burlywood;
     padding: 16px;
     height: 100%;
     width: 260px;
     margin: auto;
+    text-align: center;
 }
 
 .preview {
     margin-bottom: 20px;
-    border: 1px solid #f393ed;
+    border: 1px solid rgb(226, 190, 144);
 }
+
+.projectsHeadline {
+    text-align: center;
+    color: burlywood;
+    font-family: var(--font-eight);
+    font-size: 4em;
+    font-weight: 900;
+    letter-spacing: 0.125em;
+}
+
+h4 {
+
+}
+
