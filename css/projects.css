@@ -2,6 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 40px;
+    margin-top: 40px;
 
 }
 
@@ -16,8 +17,9 @@
 }
 
 .content .work-item {
-    background-color: white;
-    border: 2px solid burlywood;
+    background-color: rgb(56, 54, 54);
+    color: white;
+    border: 2px solid #deb887;
     -webkit-box-shadow: 0 0 15px burlywood;
     box-shadow: 0 0 15px burlywood;
     padding: 16px;
